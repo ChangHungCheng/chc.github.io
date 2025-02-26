@@ -1,0 +1,4 @@
+title: My Website
+description: "A simple website powered by Jekyll"
+theme: minima  # 使用 Jekyll 預設主題
+markdown: kramdown  # 讓 Markdown 能被正確解析

@@ -1,4 +1,4 @@
-title: My Website
-description: "A simple website powered by Jekyll"
-theme: jekyll-theme-darkly
-markdown: kramdown  # 讓 Markdown 能被正確解析
+title: Hung-Cheng Chang 張宏正
+description: 
+theme: jekyll-theme-slate
+markdown: kramdown  
